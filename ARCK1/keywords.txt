@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For Mcufriend_kbv
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Pins KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+color565	KEYWORD2
+Config_Pins     KEYWORD2
+Config_Steppers_Pins KEYWORD2
+Config_Limits_Pins KEYWORD2
+Config_INPUT_Pins KEYWORD2
+Config_OUTPUT_Pins KEYWORD2
